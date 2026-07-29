@@ -1,0 +1,6 @@
+{
+  "name": "Guaguas Tenerife",
+  "description": "App para ver guaguas de Tenerife (TITSA) en tiempo real con GPS, paradas cercanas y alertas de retrasos",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
